@@ -33,7 +33,7 @@ I have a strong interest in Data Analytics, Business Intelligence, and Machine L
 
 ### 📁 My Portfolio
 
-📄 [View My Data Analytics Portfolio (PDF)](https://github.com/Layla-lalala/Data-Analytics-Portfolio)
+[📄 View My Data Analytics Portfolio (PDF)](https://github.com/Layla-lalala/Portfolio-DataAnalytics/blob/main/Portfolio_Layla.pdf)
 
 ### 💼 Career Interests
 
